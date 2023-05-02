@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I watch anime and like self deprecating humour.
 
 
@@ -8,6 +8,9 @@ I watch anime and like self deprecating humour.
 ![](https://github-readme-stats.vercel.app/api?username=romulan-overlord&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=romulan-overlord&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=romulan-overlord&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=romulan-overlord&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=romulan-overlord&icon=5&color=1)](https://visitcount.itsvg.in)
